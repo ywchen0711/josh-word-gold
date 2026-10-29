@@ -22,7 +22,7 @@ await new Promise((ok) => server.listen(0, ok)); const port = server.address().p
 const browser = await puppeteer.launch({ executablePath: CHROME, headless: 'new', args: ['--autoplay-policy=no-user-gesture-required', '--enable-gpu', '--ignore-gpu-blocklist', '--use-angle=d3d11'] });
 const page = await browser.newPage(); page.on('pageerror', (e) => console.error('page:', e.message));
 await page.setViewport({ width: W, height: H, deviceScaleFactor: 1 });
-await page.goto(`http://localhost:${port}/film.html?ep=${ep}&lang=${lang}`); await page.waitForFunction('window.DONE && window.FILM && FILM.S.voiceReady', { timeout: 120000 });
+await page.goto(`http://localhost:${port}/index.html?ep=${ep}&lang=${lang}`); await page.waitForFunction('window.DONE && window.FILM && FILM.S.voiceReady', { timeout: 120000 });
 await page.evaluate(() => document.fonts.ready);
 await page.addStyleTag({ content: '#start,#ctl,#cam,.hub-btn,#hub{display:none!important}' });
 const len = await page.evaluate(() => FILM.EP.len), end = to != null ? +to : len;
