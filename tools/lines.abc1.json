@@ -1,0 +1,1014 @@
+{
+ "ep": "abc1",
+ "pace": 0,
+ "lines": [
+  {
+   "i": 0,
+   "t": 12.600000000000001,
+   "who": "host",
+   "cast": "host",
+   "text": "各位觀眾朋友大家好！歡迎收看一字千金，A B C 海外特別節目，我是主持人增國城！",
+   "feel": "excited"
+  },
+  {
+   "i": 1,
+   "t": 21.100000000000005,
+   "who": "host",
+   "cast": "host",
+   "text": "今天的六位小朋友，都是在國外出生、長大的華人小孩。他們的中文程度……我們等一下就知道了。",
+   "feel": "thinking"
+  },
+  {
+   "i": 2,
+   "t": 31.400000000000006,
+   "who": "host",
+   "cast": "host",
+   "text": "現場也來了很多爸爸媽媽。我看到有人拿著牌子——",
+   "feel": "happy"
+  },
+  {
+   "i": 3,
+   "t": 36.300000000000004,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "哥哥加油！Add oil！",
+   "feel": "excited"
+  },
+  {
+   "i": 4,
+   "t": 40.6,
+   "who": "host",
+   "cast": "host",
+   "text": "Add oil……好，這位弟弟的翻譯，很有創意。",
+   "feel": "calm"
+  },
+  {
+   "i": 5,
+   "t": 51.10000000000001,
+   "who": "emily",
+   "cast": "emily",
+   "text": "Hi 大家好！我是 Emily，from New York！我的中文名字叫林……林什麼來著？",
+   "feel": "excited"
+  },
+  {
+   "i": 6,
+   "t": 61.20000000000001,
+   "who": "emily",
+   "cast": "emily",
+   "text": "林美麗！對，我媽說因為我很美麗。",
+   "feel": "proud"
+  },
+  {
+   "i": 7,
+   "t": 65.70000000000002,
+   "who": "host",
+   "cast": "host",
+   "text": "很有自信，很紐約。",
+   "feel": "happy"
+  },
+  {
+   "i": 8,
+   "t": 69.40000000000002,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "Howdy y’all！我是 Kevin，我住在 Texas！我家有一頭牛，還有兩台卡車！",
+   "feel": "excited"
+  },
+  {
+   "i": 9,
+   "t": 78.70000000000002,
+   "who": "host",
+   "cast": "host",
+   "text": "你今天是來比國字，還是來比牛仔？",
+   "feel": "surprised"
+  },
+  {
+   "i": 10,
+   "t": 82.20000000000002,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "都可以！Yeehaw！",
+   "feel": "excited"
+  },
+  {
+   "i": 11,
+   "t": 87.50000000000001,
+   "who": "josh",
+   "cast": "josh",
+   "text": "大家好，我叫 Josh，十歲，住在加州聖地牙哥。我每個星期六都要去上中文學校。",
+   "feel": "calm"
+  },
+  {
+   "i": 12,
+   "t": 95.60000000000001,
+   "who": "host",
+   "cast": "host",
+   "text": "每個星期六！那你喜歡中文學校嗎？",
+   "feel": "surprised"
+  },
+  {
+   "i": 13,
+   "t": 99.4,
+   "who": "josh",
+   "cast": "josh",
+   "text": "……我喜歡下課的時候。",
+   "feel": "shy"
+  },
+  {
+   "i": 14,
+   "t": 103.50000000000001,
+   "who": "host",
+   "cast": "host",
+   "text": "非常誠實！媽媽在下面笑得很尷尬喔。",
+   "feel": "happy"
+  },
+  {
+   "i": 15,
+   "t": 109.60000000000001,
+   "who": "ethan",
+   "cast": "ethan",
+   "text": "Hello，我是 Ethan，我是 BBC。",
+   "feel": "calm"
+  },
+  {
+   "i": 16,
+   "t": 114.30000000000001,
+   "who": "host",
+   "cast": "host",
+   "text": "BBC？你是英國廣播公司派來的記者嗎？",
+   "feel": "surprised"
+  },
+  {
+   "i": 17,
+   "t": 118.4,
+   "who": "ethan",
+   "cast": "ethan",
+   "text": "不是啦。BBC 是 British-born Chinese，英國出生的華人。",
+   "feel": "calm"
+  },
+  {
+   "i": 18,
+   "t": 128.5,
+   "who": "sophie",
+   "cast": "sophie",
+   "text": "大家好，我是 Sophie，從加拿大溫哥華來的，我是 CBC。Sorry，我有一點緊張。",
+   "feel": "shy"
+  },
+  {
+   "i": 19,
+   "t": 137.6,
+   "who": "host",
+   "cast": "host",
+   "text": "你又沒做錯事，為什麼要說 sorry？",
+   "feel": "surprised"
+  },
+  {
+   "i": 20,
+   "t": 141.7,
+   "who": "sophie",
+   "cast": "sophie",
+   "text": "Sorry……啊，sorry！",
+   "feel": "shy"
+  },
+  {
+   "i": 21,
+   "t": 148.2,
+   "who": "mei",
+   "cast": "mei",
+   "text": "G’day！我是 Mei，從澳洲雪梨來的，我是 ABC！",
+   "feel": "excited"
+  },
+  {
+   "i": 22,
+   "t": 154.09999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "等一下，ABC 不是 American-born Chinese 嗎？",
+   "feel": "surprised"
+  },
+  {
+   "i": 23,
+   "t": 161.39999999999998,
+   "who": "mei",
+   "cast": "mei",
+   "text": "在澳洲，ABC 是 Australian-born Chinese！",
+   "feel": "proud"
+  },
+  {
+   "i": 24,
+   "t": 168.49999999999994,
+   "who": "host",
+   "cast": "host",
+   "text": "ABC、BBC、CBC……我們今天到底是比國字，還是電視台聯誼會？",
+   "feel": "surprised"
+  },
+  {
+   "i": 25,
+   "t": 179.59999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "好！六位小朋友都到齊了，比賽正式開始！",
+   "feel": "excited"
+  },
+  {
+   "i": 26,
+   "t": 188.09999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "第一關，聲調大考驗！中文有四個聲調，念錯一個，意思就差很多。請念出螢幕上的句子！",
+   "feel": "excited"
+  },
+  {
+   "i": 27,
+   "t": 197.49999999999997,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "我最喜歡吃睡覺！",
+   "feel": "excited"
+  },
+  {
+   "i": 28,
+   "t": 201.29999999999998,
+   "who": "host",
+   "cast": "host",
+   "text": "睡覺可以吃喔？那我每天都吃得很飽。",
+   "feel": "thinking"
+  },
+  {
+   "i": 29,
+   "t": 206.49999999999997,
+   "who": "josh",
+   "cast": "josh",
+   "text": "我最喜歡吃水餃！我阿嬤包的韭菜水餃最好吃。",
+   "feel": "happy"
+  },
+  {
+   "i": 30,
+   "t": 212.2,
+   "who": "host",
+   "cast": "host",
+   "text": "答對了！聽得我都餓了。",
+   "feel": "happy"
+  },
+  {
+   "i": 31,
+   "t": 215.79999999999998,
+   "who": "ethan",
+   "cast": "ethan",
+   "text": "主持人，我可以吻你一個問題嗎？",
+   "feel": "calm"
+  },
+  {
+   "i": 32,
+   "t": 221.09999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "不、不用了！我們是闔家觀賞的節目！",
+   "feel": "scared"
+  },
+  {
+   "i": 33,
+   "t": 227.09999999999997,
+   "who": "sophie",
+   "cast": "sophie",
+   "text": "我可以問你一個問題嗎？……Sorry，我答對了。",
+   "feel": "shy"
+  },
+  {
+   "i": 34,
+   "t": 234.7,
+   "who": "mei",
+   "cast": "mei",
+   "text": "我感冒了，媽媽煮糖給我喝！",
+   "feel": "excited"
+  },
+  {
+   "i": 35,
+   "t": 238.79999999999998,
+   "who": "host",
+   "cast": "host",
+   "text": "煮糖？你媽媽是開糖果店的嗎？",
+   "feel": "surprised"
+  },
+  {
+   "i": 36,
+   "t": 243.39999999999998,
+   "who": "emily",
+   "cast": "emily",
+   "text": "我感冒了，媽媽煮湯給我喝！Easy！",
+   "feel": "proud"
+  },
+  {
+   "i": 37,
+   "t": 248.49999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "最後一題，繞口令！答對兩百分！",
+   "feel": "excited"
+  },
+  {
+   "i": 38,
+   "t": 252.89999999999998,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "馬馬騎媽……媽慢……馬罵媽媽？",
+   "feel": "thinking"
+  },
+  {
+   "i": 39,
+   "t": 258.19999999999993,
+   "who": "host",
+   "cast": "host",
+   "text": "現在變成馬在罵媽媽了，這匹馬很兇。",
+   "feel": "thinking"
+  },
+  {
+   "i": 40,
+   "t": 263.69999999999993,
+   "who": "josh",
+   "cast": "josh",
+   "text": "媽媽……騎馬。馬……慢。媽媽……罵馬。",
+   "feel": "thinking"
+  },
+  {
+   "i": 41,
+   "t": 269.19999999999993,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "哥哥好厲害！我們家媽媽也常常罵——",
+   "feel": "excited"
+  },
+  {
+   "i": 42,
+   "t": 272.65,
+   "who": "erin",
+   "cast": "erin",
+   "text": "噓——！",
+   "feel": "shout"
+  },
+  {
+   "i": 43,
+   "t": 275.94999999999993,
+   "who": "host",
+   "cast": "host",
+   "text": "第一關結束！Josh 三百分領先，Emily、Sophie 各一百分，其他三位……還在暖身。",
+   "feel": "happy"
+  },
+  {
+   "i": 44,
+   "t": 288.84999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "第二關，文化大不同！考考大家對華人習俗的了解。",
+   "feel": "excited"
+  },
+  {
+   "i": 45,
+   "t": 293.75,
+   "who": "host",
+   "cast": "host",
+   "text": "第一題：過年的時候，長輩給你紅包，你要說什麼？",
+   "feel": "calm"
+  },
+  {
+   "i": 46,
+   "t": 299.54999999999995,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "Thank you！請問可以用 Venmo 轉帳嗎？",
+   "feel": "excited"
+  },
+  {
+   "i": 47,
+   "t": 307.04999999999995,
+   "who": "host",
+   "cast": "host",
+   "text": "阿公阿嬤聽到 Venmo，紅包會直接收回去！",
+   "feel": "thinking"
+  },
+  {
+   "i": 48,
+   "t": 313.04999999999995,
+   "who": "josh",
+   "cast": "josh",
+   "text": "恭喜發財，紅包拿來！",
+   "feel": "excited"
+  },
+  {
+   "i": 49,
+   "t": 316.95,
+   "who": "host",
+   "cast": "host",
+   "text": "前面對，後面那句不要對阿公說！這題不給分！",
+   "feel": "happy"
+  },
+  {
+   "i": 50,
+   "t": 322.54999999999995,
+   "who": "emily",
+   "cast": "emily",
+   "text": "新年快樂，身體健康，萬事如意！",
+   "feel": "proud"
+  },
+  {
+   "i": 51,
+   "t": 327.04999999999995,
+   "who": "host",
+   "cast": "host",
+   "text": "第二題：中秋節，要吃什麼？",
+   "feel": "calm"
+  },
+  {
+   "i": 52,
+   "t": 330.65,
+   "who": "emily",
+   "cast": "emily",
+   "text": "Turkey！",
+   "feel": "excited"
+  },
+  {
+   "i": 53,
+   "t": 333.75,
+   "who": "host",
+   "cast": "host",
+   "text": "那是感恩節！",
+   "feel": "shout"
+  },
+  {
+   "i": 54,
+   "t": 336.54999999999995,
+   "who": "mei",
+   "cast": "mei",
+   "text": "月餅！",
+   "feel": "excited"
+  },
+  {
+   "i": 55,
+   "t": 338.84999999999997,
+   "who": "sophie",
+   "cast": "sophie",
+   "text": "Sorry，可以補充嗎？我們台灣的親戚，中秋節還會烤肉！",
+   "feel": "shy"
+  },
+  {
+   "i": 56,
+   "t": 344.74999999999994,
+   "who": "host",
+   "cast": "host",
+   "text": "對！台灣中秋節真的會烤肉！Sophie 加一百分！",
+   "feel": "excited"
+  },
+  {
+   "i": 57,
+   "t": 350.84999999999997,
+   "who": "host",
+   "cast": "host",
+   "text": "第三題：阿姨看到你，問你「吃飽了沒？」你要怎麼回答？",
+   "feel": "calm"
+  },
+  {
+   "i": 58,
+   "t": 357.24999999999994,
+   "who": "ethan",
+   "cast": "ethan",
+   "text": "還沒，我好餓。阿姨，你要請我吃飯嗎？",
+   "feel": "calm"
+  },
+  {
+   "i": 59,
+   "t": 362.94999999999993,
+   "who": "host",
+   "cast": "host",
+   "text": "那只是打招呼啦！阿姨沒有要請你吃飯！",
+   "feel": "shout"
+  },
+  {
+   "i": 60,
+   "t": 368.1499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "吃飽了，謝謝阿姨！",
+   "feel": "happy"
+  },
+  {
+   "i": 61,
+   "t": 371.44999999999993,
+   "who": "host",
+   "cast": "host",
+   "text": "第四題：在華人文化裡，數字「四」為什麼不吉利？",
+   "feel": "calm"
+  },
+  {
+   "i": 62,
+   "t": 377.24999999999994,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "因為四個輪子的卡車，很耗油？",
+   "feel": "thinking"
+  },
+  {
+   "i": 63,
+   "t": 382.24999999999994,
+   "who": "emily",
+   "cast": "emily",
+   "text": "因為「四」聽起來像「死」！所以我們紐約的大樓沒有四樓，三樓上去直接就是五樓。",
+   "feel": "proud"
+  },
+  {
+   "i": 64,
+   "t": 391.1499999999999,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "那我們家為什麼有四個人？",
+   "feel": "thinking"
+  },
+  {
+   "i": 65,
+   "t": 394.1499999999999,
+   "who": "jeff",
+   "cast": "jeff",
+   "text": "……因為我們家不迷信。",
+   "feel": "calm"
+  },
+  {
+   "i": 66,
+   "t": 398.6499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第二關結束！Josh 四百分，Emily 三百分，Sophie 兩百分，Mei 一百分！",
+   "feel": "happy"
+  },
+  {
+   "i": 67,
+   "t": 408.1499999999999,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "那我跟 Ethan 呢？",
+   "feel": "surprised"
+  },
+  {
+   "i": 68,
+   "t": 410.8499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "你們兩位……一起努力。",
+   "feel": "thinking"
+  },
+  {
+   "i": 69,
+   "t": 417.1499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第三關，成語！我念一個成語，請你用中文或英文，說出它的意思。每題兩百分！",
+   "feel": "excited"
+  },
+  {
+   "i": 70,
+   "t": 424.6499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第一題：馬馬虎虎。",
+   "feel": "calm"
+  },
+  {
+   "i": 71,
+   "t": 427.44999999999993,
+   "who": "emily",
+   "cast": "emily",
+   "text": "Horse horse tiger tiger！",
+   "feel": "excited"
+  },
+  {
+   "i": 72,
+   "t": 434.3499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "字面上是沒錯啦……那意思呢？",
+   "feel": "thinking"
+  },
+  {
+   "i": 73,
+   "t": 437.44999999999993,
+   "who": "emily",
+   "cast": "emily",
+   "text": "呃……so-so？",
+   "feel": "shy"
+  },
+  {
+   "i": 74,
+   "t": 440.54999999999995,
+   "who": "host",
+   "cast": "host",
+   "text": "對！就是 so-so！Emily 五百分，超前了！",
+   "feel": "excited"
+  },
+  {
+   "i": 75,
+   "t": 446.6499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第二題：人山人海。",
+   "feel": "calm"
+  },
+  {
+   "i": 76,
+   "t": 449.44999999999993,
+   "who": "ethan",
+   "cast": "ethan",
+   "text": "People mountain, people sea！",
+   "feel": "proud"
+  },
+  {
+   "i": 77,
+   "t": 456.1499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "直接翻譯！意思是人非常多，就像今天現場一樣。算你對！",
+   "feel": "happy"
+  },
+  {
+   "i": 78,
+   "t": 462.24999999999994,
+   "who": "ethan",
+   "cast": "ethan",
+   "text": "Brilliant！",
+   "feel": "excited"
+  },
+  {
+   "i": 79,
+   "t": 465.1499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第三題：雞同鴨講。",
+   "feel": "calm"
+  },
+  {
+   "i": 80,
+   "t": 467.94999999999993,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "Chicken talk to duck！在德州，我們家的雞跟鴨真的會聊天！",
+   "feel": "excited"
+  },
+  {
+   "i": 81,
+   "t": 477.2499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "它的意思是兩個人講話完全對不上……就像我跟你們今天一樣！",
+   "feel": "happy"
+  },
+  {
+   "i": 82,
+   "t": 485.8499999999999,
+   "who": "sophie",
+   "cast": "sophie",
+   "text": "Sorry——可是我想說，就是兩個人說話對不上！",
+   "feel": "shy"
+  },
+  {
+   "i": 83,
+   "t": 491.94999999999993,
+   "who": "host",
+   "cast": "host",
+   "text": "第四題：畫蛇添足。",
+   "feel": "calm"
+  },
+  {
+   "i": 84,
+   "t": 494.7499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "Drawing a snake and adding feet——就是做了多餘的事，反而把事情搞砸了。",
+   "feel": "calm"
+  },
+  {
+   "i": 85,
+   "t": 506.44999999999993,
+   "who": "host",
+   "cast": "host",
+   "text": "完美！中英文都完美！Josh 六百分！",
+   "feel": "excited"
+  },
+  {
+   "i": 86,
+   "t": 510.5499999999999,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "那是我哥！That’s my brother！",
+   "feel": "excited"
+  },
+  {
+   "i": 87,
+   "t": 516.6499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "最後一題：對牛彈琴。",
+   "feel": "calm"
+  },
+  {
+   "i": 88,
+   "t": 519.6499999999999,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "這個我會！在德州，我們會對牛唱 country music，牛都很喜歡！",
+   "feel": "excited"
+  },
+  {
+   "i": 89,
+   "t": 529.2499999999999,
+   "who": "mei",
+   "cast": "mei",
+   "text": "對聽不懂的人講道理，白費力氣！",
+   "feel": "proud"
+  },
+  {
+   "i": 90,
+   "t": 533.5499999999998,
+   "who": "host",
+   "cast": "host",
+   "text": "Kevin，你今天雖然零分，但是你一定是全場最開心的人。",
+   "feel": "happy"
+  },
+  {
+   "i": 91,
+   "t": 539.4499999999998,
+   "who": "kevin",
+   "cast": "kevin",
+   "text": "Yeehaw！",
+   "feel": "excited"
+  },
+  {
+   "i": 92,
+   "t": 542.7499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第三關結束！最高分的兩位是——",
+   "feel": "excited"
+  },
+  {
+   "i": 93,
+   "t": 547.05,
+   "who": "host",
+   "cast": "host",
+   "text": "Josh 六百分，Emily 五百分！兩位進入最後的「一字千金」決戰！",
+   "feel": "excited"
+  },
+  {
+   "i": 94,
+   "t": 555.9499999999999,
+   "who": "emily",
+   "cast": "emily",
+   "text": "Josh，game on！我不會輸給你的！",
+   "feel": "proud"
+  },
+  {
+   "i": 95,
+   "t": 560.4499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "……我也不會。",
+   "feel": "calm"
+  },
+  {
+   "i": 96,
+   "t": 568.55,
+   "who": "host",
+   "cast": "host",
+   "text": "最後決戰，一字千金！Josh 對 Emily，分數從零開始，一共三題，最高分的就是冠軍！",
+   "feel": "excited"
+  },
+  {
+   "i": 97,
+   "t": 577.65,
+   "who": "host",
+   "cast": "host",
+   "text": "第一題，一千分：請寫出「家」這個字！",
+   "feel": "calm"
+  },
+  {
+   "i": 98,
+   "t": 585.9499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "時間到！請亮板！",
+   "feel": "excited"
+  },
+  {
+   "i": 99,
+   "t": 589.4499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "屋頂下面養一隻豬，就是家。",
+   "feel": "calm"
+  },
+  {
+   "i": 100,
+   "t": 592.3499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "說得好！以前的人家裡真的養豬！一千比一千！",
+   "feel": "happy"
+  },
+  {
+   "i": 101,
+   "t": 596.8499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "第二題，一千分：請寫出「烏龜」的「龜」，一筆都不能錯！",
+   "feel": "calm"
+  },
+  {
+   "i": 102,
+   "t": 606.9499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "時間到！亮板！",
+   "feel": "excited"
+  },
+  {
+   "i": 103,
+   "t": 609.4499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "Emily 的烏龜，十六畫，完全正確！",
+   "feel": "excited"
+  },
+  {
+   "i": 104,
+   "t": 613.55,
+   "who": "host",
+   "cast": "host",
+   "text": "Josh 的烏龜……一、二、三……十七畫？多了一點！",
+   "feel": "surprised"
+  },
+  {
+   "i": 105,
+   "t": 620.8499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "我太緊張了，烏龜多長了一顆痣……",
+   "feel": "sad"
+  },
+  {
+   "i": 106,
+   "t": 625.7499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "兩千比一千，Emily 領先！最後一題，兩千分！",
+   "feel": "excited"
+  },
+  {
+   "i": 107,
+   "t": 630.8499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "Josh 如果答對、Emily 答錯，Josh 就會逆轉勝！",
+   "feel": "excited"
+  },
+  {
+   "i": 108,
+   "t": 637.1499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "請寫出「媽媽」的「媽」，然後對你的媽媽說一句話。",
+   "feel": "calm"
+  },
+  {
+   "i": 109,
+   "t": 648.2499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "時間到。Emily，請亮板。",
+   "feel": "calm"
+  },
+  {
+   "i": 110,
+   "t": 652.7499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "Emily……這是「嗎」，問問題的那個「嗎」，口字旁，不是媽媽的「媽」！",
+   "feel": "surprised"
+  },
+  {
+   "i": 111,
+   "t": 660.2499999999999,
+   "who": "emily",
+   "cast": "emily",
+   "text": "Oh no！Mom，are you……嗎？",
+   "feel": "surprised"
+  },
+  {
+   "i": 112,
+   "t": 665.9499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "Josh，換你。",
+   "feel": "calm"
+  },
+  {
+   "i": 113,
+   "t": 669.2499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "女字旁，一個馬……正確！Josh，請對媽媽說一句話。",
+   "feel": "excited"
+  },
+  {
+   "i": 114,
+   "t": 674.7499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "媽媽，謝謝你每個星期六都載我去中文學校。以後在車上……我不會再抱怨了。",
+   "feel": "calm"
+  },
+  {
+   "i": 115,
+   "t": 682.6499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "……大概。",
+   "feel": "shy"
+  },
+  {
+   "i": 116,
+   "t": 685.9499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "三千比兩千——今天的冠軍是……Josh！",
+   "feel": "excited"
+  },
+  {
+   "i": 117,
+   "t": 696.6499999999999,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "哥哥！你是冠軍！You’re the champion！",
+   "feel": "excited"
+  },
+  {
+   "i": 118,
+   "t": 706.15,
+   "who": "host",
+   "cast": "host",
+   "text": "恭喜 Josh！Emily 也非常棒，給她掌聲！",
+   "feel": "happy"
+  },
+  {
+   "i": 119,
+   "t": 711.25,
+   "who": "emily",
+   "cast": "emily",
+   "text": "Next year 我一定會贏！我回去要寫一百個「媽」！",
+   "feel": "proud"
+  },
+  {
+   "i": 120,
+   "t": 717.9499999999999,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "哥哥，冠軍有獎金嗎？可以分我一半嗎？",
+   "feel": "excited"
+  },
+  {
+   "i": 121,
+   "t": 721.8499999999999,
+   "who": "josh",
+   "cast": "josh",
+   "text": "要分可以，你要先說「請」。",
+   "feel": "calm"
+  },
+  {
+   "i": 122,
+   "t": 724.75,
+   "who": "jasper",
+   "cast": "jasper",
+   "text": "請……請你分我一半，我會一直吻你！",
+   "feel": "excited"
+  },
+  {
+   "i": 123,
+   "t": 730.65,
+   "who": "josh",
+   "cast": "josh",
+   "text": "是「問」！一直問我！不是吻！",
+   "feel": "shout"
+  },
+  {
+   "i": 124,
+   "t": 735.55,
+   "who": "host",
+   "cast": "host",
+   "text": "看來弟弟明年也要來報名了。我的耳朵，要先去補習。",
+   "feel": "happy"
+  },
+  {
+   "i": 125,
+   "t": 741.8499999999999,
+   "who": "host",
+   "cast": "host",
+   "text": "《一字千金》ABC 海外特別節目，我們下次見！",
+   "feel": "excited"
+  }
+ ]
+}
